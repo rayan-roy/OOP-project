@@ -8,6 +8,6 @@ Contains Several projects on OOP (Object oriented programming)
 a. ADT Ordered Tree: Implemented ADT ordered Tree with various things like adding, removing a leaf to the tree, reading the contents of the tree, and the adding/ removing various nodes within a tree.
 File to see: Treenode.py, Treeplus.py, countpair.py
 
-b. Experimenting with Linked List implementation and Contiguous implementation
-Files to see: Contiguous_counter, contiguous.py, counterlinked.py
+ b. Experimenting with Linked List implementation and Contiguous implementation
+  Files to see: Contiguous_counter, contiguous.py, counterlinked.py, linked.py
 
