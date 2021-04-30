@@ -5,6 +5,7 @@ Contains Several projects on OOP (Object oriented programming)
    There are various test files written to to familiarize yourself with the game.
    
 2. Playing with ADT's:
+
 a. ADT Ordered Tree: Implemented ADT ordered Tree with various things like adding, removing a leaf to the tree, reading the contents of the tree, and the adding/ removing various nodes within a tree.
 File to see: Treenode.py, Treeplus.py, countpair.py
 
